@@ -1,3 +1,5 @@
+# Detta projekt är skapat med React/NextJs samt Tailwind
+
 > [!TIP]
 > Att komma igång!
 >
@@ -17,7 +19,7 @@ I början hamnar man på startsidan där man ser alla böcker, för att visa det
 
 När man är i detaljerade vyn så kan man antingen klicka sig runt i navigerings headern eller gå tillbaka med en knapp.
 
-Sedan kan man navigera till lägg till bok där man kan fylla i Titel och Författare sen klicka på lägg till för att skapa en bok, sedan kommer systemet skicka användaren till startsidan för att se den nya boken man har lagt till.
+Man har möjligheten att navigera till lägg till bok också, där man kan fylla i Titel och Författare sen klicka på lägg till för att skapa en bok, sedan kommer systemet skicka användaren till startsidan för att se den nya boken man har lagt till.
 
 Sist men inte minst har vi en flik logga in där tyvärr vi inte har någon funktionalitet än men det kanske kommer vi får se.
 
