@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+> [!TIP]
+> Att komma igång!
+>
+> Klona ner repot till din lokala maskin.
+>
+> Öppna med vscode eller liknande och öpnna en ny terminal.
+>
+> Gå in i projektkatalogen (cd Bokregister-repetition) om du inte redan är det.
+>
+> Kör en npm install
+>
+> Sedan är det bara köra kommandot npm run dev så är man igång!
 
-## Getting Started
+## Funktionalitet 
 
-First, run the development server:
+I början hamnar man på startsidan där man ser alla böcker, för att visa detaljer om en speciell bok är det bara att ta muspekaren över en bok och klicka in sig på den. En hover effekt visas när muspekaren är över en bok så det är tydligt vilken bok du väljer.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+När man är i detaljerade vyn så kan man antingen klicka sig runt i navigerings headern eller gå tillbaka med en knapp.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sedan kan man navigera till lägg till bok där man kan fylla i Titel och Författare sen klicka på lägg till för att skapa en bok, sedan kommer systemet skicka användaren till startsidan för att se den nya boken man har lagt till.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Sist men inte minst har vi en flik logga in där tyvärr vi inte har någon funktionalitet än men det kanske kommer vi får se.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Det var allt, tack för din tid!
